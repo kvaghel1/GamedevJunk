@@ -1,0 +1,17 @@
+PacMan.m
+touchesBegan
+NSlog --> debug log message
+
+CustomView : UIView
+	- Contents
+
+	-init | init with frame | init with coder < (from a file) coming from an Interface builder
+
+"UINibs"
+custom.xib --> user interface ... View
+
+change from UIView to CustomView class
+
+nested loop to create customView
+
+"tag" --> associated with view
